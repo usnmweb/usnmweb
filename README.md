@@ -21,5 +21,5 @@
 
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=SAMEERSAHU007&icon=8&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=usnmweb&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
