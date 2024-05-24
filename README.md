@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **usnmweb@gmail.com**
 
-<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h3>
+<h3 align="left">Connect with me: </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/albertobarbagallo/" target="https://www.linkedin.com/in/albertobarbagallo/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john marco tolentino" height="30" width="40" /></a>
