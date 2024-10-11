@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, SASS, Tailwind, BootStrap and JavaScript**
 
-- 📫 How to reach me **usnmweb@gmail.com**
+- 📫 How to reach me **info@albertobarbagallo** / **usnmweb@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 
