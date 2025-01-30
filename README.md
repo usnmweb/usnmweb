@@ -21,5 +21,11 @@
 
 <hr>
 
+### 📊 Projects Distribution
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','WordPress'],datasets:[{data:[60,40]}]}}" alt="Projects Distribution Chart" width="300">
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=usnmweb&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
